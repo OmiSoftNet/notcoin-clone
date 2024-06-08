@@ -1,6 +1,6 @@
 # NotCoin Script | Telegram Mini App
 
-If you have a desire to launch your own NotCloin or Hamster Kombat clone, but you are not ready to spend a lot of money & time on the development and further support of the product, then you have come to the right place.
+If you have a desire to launch your own NotCoin or Hamster Kombat clone, but you are not ready to spend a lot of money & time on the development and further support of the product, then you have come to the right place.
 
 We will help you with product implementation so that you can fully focus on marketing and sales.
 
@@ -116,6 +116,45 @@ Write to us, and we will answer all your questions and tell you all about your p
 - TON
 - Tron
 - And others, write to us if the network you need is not in this list
+
+## Frequently asked questions
+
+<details>
+  <summary>What is the NotCoin Script?</summary>
+  <p>NotCoin Script - a simple Telegram Clicker Game with marketing mechanics, the goal of which is to significantly reduce the cost of community formation for Web3 projects.</p> 
+  <p>The best examples of this script are NotCoin & Hamster Kombat games</p> 
+</details>
+
+<details>
+  <summary>What is the NotCoin Script?</summary>
+  <p>Our NotCoin Script is distributed according to the White Label model. We have 2 offers for you:</p> 
+  <ul>
+      <li>Basic Package - <b>$10,000</b> first payment and 5% of revenue. For these funds, the solution will be adapted for you and deployed on your server. Product maintenance will be free.</li>
+      <li>NoFee Package - <b>$20,000</b> first payment and $2,000 per year for maintenance. Suitable if you have a large community and there will be many users from the start.</li>
+      <li>Special Offer - <b>$0</b>, If you have a large community and you are looking for a technological partner in the share - this option may be useful for you. We provide CTO and team as our investment</li>  
+  </ul>
+</details>
+
+<details>
+  <summary>How much time do you need to make a Telegram Clicker Game?</summary>
+  <p>Since this is a White-Label solution, its development and launch takes 3-4 times less time than when developing it from scratch.</p>
+  <p>You will receive a ready-made solution in less than a month.</p>
+</details>
+
+<details>
+  <summary>What kinds of networks does your crypto lottery script work with?</summary>
+  <p>All Etherium-derived networks are currently supported, such as: Etherium, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche, Celo and many others. And we also support the native Telegram network - TON</p>
+</details>
+
+<details>
+  <summary>Is the Payment Gateway included in the NotCoin Script?</summary>
+  <p>No, as it requires a license. If you have the appropriate license, we can add this functionality for an additional fee by integrating with the bank or payment gateway you need.</p>
+</details>
+
+<details>
+  <summary>Can we host the product on our server?</summary>
+  <p>Yes, we can configure CI/CD so that all updates are automatically deployed to your server.</p>
+</details>
 
 ## Summary
 
