@@ -1,6 +1,6 @@
 # NotCoin Script | Telegram Mini App
 
-If you have a desire to launch your own NotCloin or Hamster Kombat clone, but you are not ready to spend tens of thousands of dollars on the development and further support of the product, then you have come to the right place.
+If you have a desire to launch your own NotCloin or Hamster Kombat clone, but you are not ready to spend a lot of money & time on the development and further support of the product, then you have come to the right place.
 
 We will help you with product implementation so that you can fully focus on marketing and sales.
 
@@ -79,3 +79,55 @@ We will help you with product implementation so that you can fully focus on mark
       <li>AWS Services</li>
   </ul>
 </details>
+
+## Pricing
+
+|                  | Basic Package        | NoFee Package | Special Offer |
+|------------------|----------------------|---------------|---------------|
+| Fee              | 5%                   | 0%            | 0%            |
+| Maintenance Cost | Free                 | $2,000 / year | Free          |
+| Community        | 1000+                | 10000+        | 50000+        |
+| Custom design    | Only logo & colors   | Yes           | Yes           |
+| Pricing          | $10.000              | $20.000       | Contact Us    |
+
+## Live Demo
+
+Want a personal demo of our NotCoin-like game?
+
+Write to us, and we will answer all your questions and tell you all about your potential game:
+
+- <a href="https://telegram.me/omisoft" target="_blank">Our Telegram</a>
+- <a href="https://omisoft.net/contact-us?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">Contact Us page</a>
+- [Our Email](mailto:hi@omisoft.net)
+
+## Supported Networks
+
+- Ethereum
+- Arbitrum
+- Optimism
+- Polygon
+- Base
+- BSC (BNB Chain, Binance Smart Chain)
+- Avalanche
+- Celo
+- Blast
+- Polkadot
+- Solana
+- TON
+- Tron
+- And others, write to us if the network you need is not in this list
+
+## Summary
+
+Building a successful product is always an investment of a lot of time and personal focus. Not to mention financial investments.
+
+If you're serious and ready to play the long game, we can be your technology partner along the way.
+
+## Other Package Solutions
+
+- <a href="https://omisoft.net/demo/notcoin-script?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">NotCoin Like Game</a>
+- <a href="https://omisoft.net/demo/crypto-lottery?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">Crypto Lottery</a>
+- <a href="https://omisoft.net/demo/white-label-dex-solutions?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">Dex Platform</a>
+- <a href="https://omisoft.net/demo/white-label-crypto-launchpad-development?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">ICO & IDO Launchpad</a>
+- <a href="https://omisoft.net/demo/whitelabel-nft-marketplace-development?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">NFT Marketplace</a>
+- <a href="https://omisoft.net/demo/meme-coin-development-service?utm_campaign=notcoin-clone&utm_medium=social&utm_source=github" target="_blank">Meme Coin Solution</a>
